@@ -1,0 +1,2 @@
+# IConvLSTM
+融合Inception演算法於ConvLSTM卷積長短期網路卷積運算的模型演算法
